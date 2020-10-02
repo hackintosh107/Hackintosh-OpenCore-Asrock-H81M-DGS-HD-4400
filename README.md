@@ -11,13 +11,11 @@
 
 # Working:
 - [x] Intel HD Graphics 4400, Intel HD Graphics 4600
-- [x] Night shift
 - [x] Audio
 - [x] Microphone
 - [x] Ethernet
-- [x] iCloud - Facetime - iMessage - Siri
 - [x] CPU power management
-- [x] All USB ports
+- [x] USB ports
 
 # SMBIOS:
 iMac15,1
