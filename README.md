@@ -1,7 +1,7 @@
 # Hackintosh-OpenCore-Asrock-H81M-DGS-HD-4400
 
 # Specifications:
-* CPU: Intel Core i5-4570
+* CPU: Intel Core i3-4160
 * GPU: Intel HD Graphics 4400
 * Audio: ALC662
 * Ethernet: Realtek RTL8111
