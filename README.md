@@ -1,4 +1,4 @@
-# Hackintosh-OpenCore-Asrock-H81M-DGS-HD-4400-4600
+# Hackintosh-OpenCore-Asrock-H81M-DGS-HD-4400
 
 # Specifications:
 * CPU: Intel Core i5-4570
